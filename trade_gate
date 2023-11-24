@@ -1,6 +1,13 @@
 # clear terminal each time
-import os
-os.system('cls')
+# import os
+# os.system('cls')
+
+###############
+import pandas as pd
+import numpy as np
+df = pd.DataFrame(np.arange(1,10).reshape(3,3))
+df = print(f"sample df\n{df}")
+###############
 
 # inputs for questions
 print("Welcome to the TradeGate Program.\n".upper())
