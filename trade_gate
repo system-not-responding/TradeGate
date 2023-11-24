@@ -72,7 +72,7 @@ print("----------------------------------------------")
 
 
 # i want to add in the flowchart below
-
+# fdsgdfgs
 if risk_portfolio_balance_percent <= (13 / 100):
     print(f"Your risk meets the treshold: {round(risk_portfolio_balance_percent * 100, 2)}% / 13%")
     if risk_ratio >= 2:
