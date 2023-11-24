@@ -82,7 +82,7 @@ if risk_portfolio_balance_percent <= (13 / 100):
             else:
                 shorting_with_trend = input("Are you shorting with the trend?\n>>> ").lower()
                 if shorting_with_trend == 'yes':
-                    short_delta_confirmation = input("Does delta confirm this short bias?\>>> ").lower()
+                    short_delta_confirmation = input("Does delta confirm this short bias?\n>>> ").lower()
                     if short_delta_confirmation == 'yes':
                         print("You can short on a pullback.")
                     else:

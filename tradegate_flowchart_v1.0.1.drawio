@@ -1,0 +1,326 @@
+<mxfile host="app.diagrams.net" modified="2023-11-21T22:00:03.532Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="eJAx5AKVIpAAY0T_9Moy" version="22.1.3" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="3633" dy="1389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nRXvXKjofSJJ8LNJtBbq-10" target="nRXvXKjofSJJ8LNJtBbq-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6dy4xY3DY3KDTeX5FSkM-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nRXvXKjofSJJ8LNJtBbq-10" target="6dy4xY3DY3KDTeX5FSkM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-10" value="What&#39;s the ADX value?" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="850" y="280" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nRXvXKjofSJJ8LNJtBbq-13" target="nRXvXKjofSJJ8LNJtBbq-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="575" y="740" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nRXvXKjofSJJ8LNJtBbq-13" target="nRXvXKjofSJJ8LNJtBbq-35" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="735" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-13" value="Are you buying with the trend?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="350" y="710.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nRXvXKjofSJJ8LNJtBbq-16" target="nRXvXKjofSJJ8LNJtBbq-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1605" y="728.5800000000002" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nRXvXKjofSJJ8LNJtBbq-16" target="nRXvXKjofSJJ8LNJtBbq-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-16" value="Are you buying the bottom?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1390" y="710" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nRXvXKjofSJJ8LNJtBbq-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1045" y="1098.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-19" value="Are you selling the top?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1105" y="926.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-21" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1240" y="712.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nRXvXKjofSJJ8LNJtBbq-22" target="nRXvXKjofSJJ8LNJtBbq-105" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-22" value="Is there a failed breakout?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1795" y="912.8" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nRXvXKjofSJJ8LNJtBbq-26" target="nRXvXKjofSJJ8LNJtBbq-102" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nRXvXKjofSJJ8LNJtBbq-26" target="nRXvXKjofSJJ8LNJtBbq-112" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-26" value="Does delta confirm this bias?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1675" y="1085.73" width="100" height="44.13" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-29" value="You cannot place a trade." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2240" y="1217.43" width="110" height="49.13" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-30" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1675" y="902.8" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-32" value="Is delta confirming a long bias?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="615" y="921.25" width="110" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nRXvXKjofSJJ8LNJtBbq-35" target="nRXvXKjofSJJ8LNJtBbq-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nRXvXKjofSJJ8LNJtBbq-35" target="nRXvXKjofSJJ8LNJtBbq-87" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-35" value="Are you selling with the trend?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="100" y="917.5" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nRXvXKjofSJJ8LNJtBbq-36" target="nRXvXKjofSJJ8LNJtBbq-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nRXvXKjofSJJ8LNJtBbq-36" target="nRXvXKjofSJJ8LNJtBbq-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-36" value="Is risk vs reward at least 2?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="875" y="120" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-37" value="You cannot place a trade." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="430" y="125" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-41" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="920" y="210" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nRXvXKjofSJJ8LNJtBbq-42" target="nRXvXKjofSJJ8LNJtBbq-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nRXvXKjofSJJ8LNJtBbq-42" target="nRXvXKjofSJJ8LNJtBbq-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-42" value="Is risk below 13% of portfolio or max allowable loss?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="865" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-45" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="920" y="68" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-46" value="You cannot place a trade." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="430" y="10" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-48" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1955" y="902.8" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-49" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="670" y="710.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-51" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="100" y="710" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-53" value="You cannot place a trade." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1000" y="1099.8600000000001" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.422;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nRXvXKjofSJJ8LNJtBbq-22" target="nRXvXKjofSJJ8LNJtBbq-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-62" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1000" y="920.75" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nRXvXKjofSJJ8LNJtBbq-66" target="nRXvXKjofSJJ8LNJtBbq-69" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nRXvXKjofSJJ8LNJtBbq-66" target="nRXvXKjofSJJ8LNJtBbq-77" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-66" value="Is delta confirming a short thesis?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-110" y="1057.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-68" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-90" y="905" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-69" value="Place trade on pullback." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-260" y="1207.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-70" value="You cannot place a trade." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="505" y="1207.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nRXvXKjofSJJ8LNJtBbq-32" target="nRXvXKjofSJJ8LNJtBbq-70" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-73" value="Place the trade on pullback." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="725" y="1207.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.558;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nRXvXKjofSJJ8LNJtBbq-32" target="nRXvXKjofSJJ8LNJtBbq-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-77" value="You cannot place a trade." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="90" y="1207.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-79" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="1053.37" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-80" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="790" y="1057.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-81" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1265" y="921.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-82" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="665" y="30" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-83" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="665" y="140" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-87" value="You cannot place a trade." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="350" y="1062.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-89" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="410" y="912.87" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-90" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-240" y="1057.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-91" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="150" y="1057.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-102" value="Place trade at body of candlestick." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1515" y="1207" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-104" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1535" y="1077" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nRXvXKjofSJJ8LNJtBbq-105" target="nRXvXKjofSJJ8LNJtBbq-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nRXvXKjofSJJ8LNJtBbq-105" target="nRXvXKjofSJJ8LNJtBbq-108" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-105" value="Does delta confirm this bias?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2090" y="1087.87" width="100" height="44.13" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-107" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="2300" y="1082" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-108" value="Place trade below extreme wick." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1955" y="1212" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-110" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1980" y="1077" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-112" value="You cannot place a trade." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1795" y="1212" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nRXvXKjofSJJ8LNJtBbq-19" target="nRXvXKjofSJJ8LNJtBbq-115" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1195" y="947" as="sourcePoint" />
+            <mxPoint x="1265" y="1217" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nRXvXKjofSJJ8LNJtBbq-115" target="nRXvXKjofSJJ8LNJtBbq-120" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nRXvXKjofSJJ8LNJtBbq-115" target="nRXvXKjofSJJ8LNJtBbq-133" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-115" value="Is there a failed breakout?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1215" y="1097" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nRXvXKjofSJJ8LNJtBbq-120" target="nRXvXKjofSJJ8LNJtBbq-125" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nRXvXKjofSJJ8LNJtBbq-120" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1265" y="1436.57" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-120" value="Does delta confirm this bias?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1090" y="1317" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-123" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1855" y="1082" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-124" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1115" y="1092" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-125" value="Place trade just above longest wick" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="970" y="1456.57" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-127" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="995" y="1386.57" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-128" value="You cannot place a trade." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1200" y="1456.57" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-130" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1245" y="1317" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nRXvXKjofSJJ8LNJtBbq-133" target="nRXvXKjofSJJ8LNJtBbq-137" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-133" value="Does delta confirm this bias?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1335" y="1317" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.542;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nRXvXKjofSJJ8LNJtBbq-133" target="nRXvXKjofSJJ8LNJtBbq-128" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-137" value="Place trade at body of candlestick" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1415" y="1456.57" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-138" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1390" y="1092" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-140" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1435" y="1386.57" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6dy4xY3DY3KDTeX5FSkM-0" value="&amp;gt; 25" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="655" y="290" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6dy4xY3DY3KDTeX5FSkM-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nRXvXKjofSJJ8LNJtBbq-14" value="trending" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="375" y="305" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6dy4xY3DY3KDTeX5FSkM-2" value="&amp;lt;25" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1025" y="290" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6dy4xY3DY3KDTeX5FSkM-6" value="Possible outcomes:&lt;br&gt;adx &amp;gt; 25, chop &amp;lt;38&lt;br&gt;adx &amp;lt;= 25. chop &amp;gt; 38&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="245" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6dy4xY3DY3KDTeX5FSkM-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6dy4xY3DY3KDTeX5FSkM-4" target="6dy4xY3DY3KDTeX5FSkM-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6dy4xY3DY3KDTeX5FSkM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6dy4xY3DY3KDTeX5FSkM-4" target="6dy4xY3DY3KDTeX5FSkM-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6dy4xY3DY3KDTeX5FSkM-4" value="What&#39;s the choppiness index value?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1120" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6dy4xY3DY3KDTeX5FSkM-10" value="Error. You cannot place a trade." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1120" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6dy4xY3DY3KDTeX5FSkM-12" value="&amp;lt;38" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1180" y="360" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6dy4xY3DY3KDTeX5FSkM-13" value="chopping" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1370" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6dy4xY3DY3KDTeX5FSkM-15" value="&amp;gt; 38" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1280" y="290" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6dy4xY3DY3KDTeX5FSkM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.381;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6dy4xY3DY3KDTeX5FSkM-13" target="nRXvXKjofSJJ8LNJtBbq-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6dy4xY3DY3KDTeX5FSkM-17" value="This process will make any bias have less emotion and more rationale by inputting current values as opposed to the degree of subjectivity that comes from one&#39;s consideration." style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=21;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1780" y="10" width="295" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="6dy4xY3DY3KDTeX5FSkM-19" value="How much significance does delta hold in a chopping zone?" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2430" y="1077.8" width="150" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
