@@ -1,13 +1,6 @@
-# clear terminal each time
+# clears terminal before running
 # import os
 # os.system('cls')
-
-###############
-import pandas as pd
-import numpy as np
-df = pd.DataFrame(np.arange(1,10).reshape(3,3))
-df = print(f"sample df\n{df}")
-###############
 
 # inputs for questions
 print("Welcome to the TradeGate Program.\n".upper())
@@ -71,14 +64,17 @@ print("Can you place a trade?")
 print("----------------------------------------------")
 
 
-# i want to add in the flowchart below
-# fdsgdfgs
+# could i have used 'or' to determine trend or chop?
+# ex:
+# if adx_value >= 25 or chop_value is >= 38:
+
 if risk_portfolio_balance_percent <= (13 / 100):
     print(f"Your risk meets the treshold: {round(risk_portfolio_balance_percent * 100, 2)}% / 13%")
     if risk_ratio >= 2:
         print(f"Your risk-to-reward meets the minimum requirement: {risk_ratio} / 2\n")
-        price_action = input("Is price action Trending or Chopping?\n>>> ").lower()
-        if price_action == "trending":
+        adx_price_action = input("What's the ADX value\n>>> ").lower()
+        adx_price_action = int(adx_price_action)
+        if adx_price_action >= 25:
             pa_trending_yes = input("Are you buying with the trend? Yes or no?\n>>> ").lower()
             if pa_trending_yes == "yes":
                 pa_trending_buy_delta = input("Is delta confirming a long bias?\n>>> ").lower()
@@ -99,7 +95,12 @@ if risk_portfolio_balance_percent <= (13 / 100):
                     
 # below is chopping if elses
         else:
-            pa_chopping = input("Are you buying the bottom?\n>>> ")
+            chop_value = input("What's the Choppiness Index value?\n>>>")
+            chop_value = int(chop_value)
+            if chop_value >= 38:
+                pa_chopping = input("Are you buying the bottom?\n>>> ")
+            else:
+                print("Error. Please retry.")
             if pa_chopping == "yes":
                 pa_chopping_failed_breakout = input("Is there a failed breakout?\n>>> ")
                 if pa_chopping_failed_breakout == "yes":
