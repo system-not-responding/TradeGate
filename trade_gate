@@ -139,7 +139,5 @@ if risk_portfolio_balance_percent <= (13 / 100):
 else:
     print(f"Your risk exceeds threshold: {round(risk_portfolio_balance_percent * 100, 2)}%/ 13%. You cannot place a trade")
 
-
-
-
 print("\n")
+input("Press any button to close...")
