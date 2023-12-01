@@ -97,7 +97,7 @@
  [],
  False,
  False,
- 1701449381,
+ 1701452129,
  [('run.exe',
    'C:\\Users\\justi\\OneDrive\\My '
    'Codes\\stock-correlation-1\\venv\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',

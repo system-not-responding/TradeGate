@@ -320,22 +320,3 @@ while True:
     else:
         break
 
-# while True:
-#     if exit_or_restart_program == "e":
-#         # print("Restarting...")
-#         continue
-#     elif exit_or_restart_program == "q":
-#         # print("Exitting Program...")
-#         break
-
-# -------------------------------------------------------
-
-
-
-
-# while True:
-#     if exit_or_restart_program == 'e':
-#         continue
-#     elif exit_or_restart_program == "q":
-#         break
-# input("Press any key to exit...\n>>>")
