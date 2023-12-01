@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['trade-gate'],
+    ['trade-gate.py'],
     pathex=[],
     binaries=[],
     datas=[],
