@@ -1,5 +1,4 @@
-('C:\\Users\\justi\\OneDrive\\My '
- 'Codes\\TradeGate\\build\\trade_gate\\PYZ-00.pyz',
+('C:\\Users\\justi\\PycharmProjects\\trade-gate\\build\\trade_gate\\PYZ-00.pyz',
  [('_compat_pickle',
    'C:\\Users\\justi\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_compat_pickle.py',
    'PYMODULE'),
